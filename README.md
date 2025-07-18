@@ -1,2 +1,2 @@
 # NoGame
-NoGameStdio
+NoGameStudio
